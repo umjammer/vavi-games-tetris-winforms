@@ -11,7 +11,7 @@ namespace Tetris {
     /// <summary>
     /// Tetris.
     ///
-    /// @author ‘å’J —z–¾
+    /// @author å¤§è°· é™½æ˜Ž
     /// </summary>
     public class Tetris {
 
